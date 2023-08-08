@@ -1,0 +1,1 @@
+export const LOAD_JOB = 'LOAD_JOB'
